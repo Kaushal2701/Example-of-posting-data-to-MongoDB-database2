@@ -1,0 +1,8 @@
+POST http://localhost:3001/new-post
+Content-Type: application/json
+
+{
+    "Book_Name" : "Harry Potter 1",
+    "Name_of_Issuer" : "Kaushal Swami",
+    "Due_Date" : "5-12-2021"
+}
